@@ -19,11 +19,11 @@
 <h3 align="center">Highlights from Zepto's Performance Analysis</h3>
 
 <ul>
-  <li>Overall Growth: Zepto has experienced steady growth in total sales and number of items sold over the years.</li>
-  <li>Customer Satisfaction: The average rating of 4 indicates high customer satisfaction.</li>
-  <li>Outlet Performance: Supermarket Type1 outlets have been the top performers in terms of total sales and number of items sold.</li>
-  <li>Item Popularity: Fruits and snacks are the most popular item categories.</li>
-  <li>Customer Preferences: Customers in Tier 3 cities have shown the highest spending.</li>
+  <li>Overall Growth: Zepto has stagnation growth over the years with respect to sales with an exceptional growth in year '2018'.</li>
+  <li>Customer Satisfaction: The average rating of '4' indicates high customer satisfaction.</li>
+  <li>Outlet Performance: 'Supermarket Type1' outlets have been the top performers in terms of total sales and number of items sold.</li>
+  <li>Item Popularity: 'Fruits and snacks' are the most popular item categories.</li>
+  <li>Customer Preferences: Customers in 'Tier 3' cities have shown the highest spending.</li>
   <li>Outlet Establishment: The line chart depicting outlet establishment over the years reveals a steady growth trajectory.</li>
 </ul>
 <img src="https://github.com/elishalenka18/Zepto_SalesAnalysis_Project/blob/main/Power-BI%20dashboard.png" alt="Zepto Sales Analysis - Power BI Dashboard">
