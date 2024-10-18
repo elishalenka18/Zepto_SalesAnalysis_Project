@@ -26,8 +26,10 @@
   <li>Customer Preferences: Customers in Tier 3 cities have shown the highest spending.</li>
   <li>Outlet Establishment: The line chart depicting outlet establishment over the years reveals a steady growth trajectory.</li>
 </ul>
+<img src="https://github.com/elishalenka18/Zepto_SalesAnalysis_Project/blob/main/Power-BI%20dashboard.png" alt="Zepto Sales Analysis - Power BI Dashboard">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/elishalenka18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zepto"   
  height="30" width="40" /></a>
 </p>
+
