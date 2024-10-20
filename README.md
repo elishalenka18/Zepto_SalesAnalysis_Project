@@ -19,7 +19,7 @@
 <h3 align="center">Highlights from Zepto's Performance Analysis</h3>
 
 <ul>
-  <li>Overall Growth: Zepto has stagnation growth over the quarters with respect to sales with an exceptional growth in year-quarter '2023-Q1'(~ 54%).</li>
+  <li>Overall Growth: Zepto has stagnation growth over the quarters with respect to sales with an exceptional growth in year-quarter '2023-Q1'(~54%).</li>
   <li>Customer Satisfaction: The average rating of '4' indicates high customer satisfaction.</li>
   <li>Outlet Performance: 'Supermarket Type1' outlets have been the top performers in terms of total sales with a market share of ~66% and ~65% of number of items sold.</li>
   <li>Item Popularity: 'Fruits and snacks' are the most popular item categories, both contributing close to 15% each to the total sales.</li>
